@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Follow these steps to run the application on your local machine:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine:
+```git clone https://github.com/Soumya030/CN_APP```
 
 
 
@@ -27,6 +28,9 @@ Follow these steps to run the application on your local machine:
 
 The page will automatically reload if you make changes to the code.
 You may also see any lint errors in the console.
+
+
+
 
 
 
