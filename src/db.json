@@ -1,0 +1,77 @@
+[
+    {
+      "category": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "title": "Cloud Accounts",
+          "type": "pie_chart",
+          "data": {
+            "Connected": 2,
+            "Not Connected": 2
+          }
+        },
+        {
+          "title": "Cloud AccountsV2",
+          "type": "pie_chart",
+          "data": {
+            "Connected": 2,
+            "Not Connected": 2
+          }
+        },
+        {
+          "title": "Cloud AccountsV3",
+          "type": "pie_chart",
+          "data": {
+            "Connected": 2,
+            "Not Connected": 2
+          }
+        },
+        {
+          "title": "Cloud Account Risk Assessment",
+          "type": "pie_chart",
+          "data": {
+            "Failed": 1689,
+            "Warning": 681,
+            "Not available": 36,
+            "Passed": 7253
+          }
+        }
+      ]
+    },
+    {
+      "category": "CWPP Dashboard",
+      "widgets": [
+        {
+          "title": "Top 5 Namespace Specific Alerts",
+          "type": "line_chart",
+          "data": "No Graph data available!"
+        },
+        {
+          "title": "Workload Alerts",
+          "type": "line_chart",
+          "data": "No Graph data available!"
+        }
+      ]
+    },
+    {
+      "category": "Registry Scan",
+      "widgets": [
+        {
+          "title": "Image Risk Assessment",
+          "type": "bar_chart",
+          "data": {
+            "Critical": 9,
+            "High": 150
+          }
+        },
+        {
+          "title": "Image Security Issues",
+          "type": "bar_chart",
+          "data": {
+            "Critical": 2,
+            "High": 2
+          }
+        }
+      ]
+    }
+  ]
